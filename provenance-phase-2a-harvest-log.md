@@ -232,3 +232,89 @@ Batch: Page-Ladson (Florida), Ryan-Harley (Florida), Norden (Florida)
   }
 ]
 ```
+
+---
+
+## Entry 4 — Woo
+
+Timestamp: 2026-10-02T21:48:21-06:00
+
+Batch: Meltzer leftovers, Holliday leftovers, Haynes leftovers, Fiedel leftovers
+
+```json
+[
+  {
+    "title": "The first peoples of the Atacama Desert lived among the trees: A 11,600- to 11,200-year-old grove and congregation site.",
+    "authors": "Paula C Ugalde, Delphine Joly, Claudio Latorre, Eugenia M Gayo, Rafael Labarca, Mikhaela Simunovic, Virginia McRostie, Vance T Holliday, Jay Quade, Calogero M Santoro",
+    "year": 2024,
+    "doi": "10.1073/pnas.2320506121",
+    "oa_url": "https://europepmc.org/articles/PMC11067013?pdf=render",
+    "source_type": "pmc",
+    "related_people": ["Vance T. Holliday"],
+    "sites_mentioned": "QM12, QM35, Atacama Desert, Chile",
+    "proxies_mentioned": "radiocarbon, preserved tree stumps, hearths, artifact distribution",
+    "notes": "PMC11067013. HTTP 200 %PDF. Five campsites about 12,800 to 11,200 cal BP. Homes under a grove at QM35 dated about 11,600 to 11,200 cal BP. White Sands and El Fin del Mundo left out."
+  },
+  {
+    "title": null,
+    "authors": "",
+    "year": null,
+    "doi": "",
+    "oa_url": "",
+    "source_type": "none_found",
+    "related_people": ["David J. Meltzer"],
+    "sites_mentioned": "",
+    "proxies_mentioned": "",
+    "notes": "No new Americas open-access full text. Dogs, Picuris, ice-free corridor, Anzick, Kennewick, and the 2020 overkill paper are already harvested. Folsom type site is excluded. The 2021 Arctic sedaDNA paper is circumpolar, not Americas-only."
+  },
+  {
+    "title": null,
+    "authors": "",
+    "year": null,
+    "doi": "",
+    "oa_url": "",
+    "source_type": "none_found",
+    "related_people": ["Gary Haynes"],
+    "sites_mentioned": "",
+    "proxies_mentioned": "",
+    "notes": "No open-access full text. The 2007 Science comment on the age of Clovis is closed. Book chapters and World Archaeology reviews did not have a verified PDF."
+  },
+  {
+    "title": null,
+    "authors": "",
+    "year": null,
+    "doi": "",
+    "oa_url": "",
+    "source_type": "none_found",
+    "related_people": ["Stuart J. Fiedel"],
+    "sites_mentioned": "",
+    "proxies_mentioned": "",
+    "notes": "No new Americas open-access full text. The Paisley preprint is a banned site. The 2022 Radiocarbon colonization review and the 2000 Journal of Archaeological Research essay are not open-access PDFs."
+  }
+]
+```
+
+---
+
+## Entry 5 — Po
+
+Timestamp: 2026-10-02T21:48:49-06:00
+
+Batch: One open-access university dissertation or institutional-repository PDF on a pre-Clovis or Paleoindian site in South America
+
+```json
+[
+  {
+    "title": "La gestión cultural en los sitios paleoarqueológicos Monte Verde y Pilauco, Región de Los Lagos Chile: repercusión, alcances y carencias",
+    "authors": ["Liliana Ili Raimilla"],
+    "year": 2019,
+    "doi": "10.4995/Thesis/10251/146649",
+    "oa_url": "https://riunet.upv.es/bitstreams/02d3dc64-1dfb-4312-bb6b-f724c14819e9/download",
+    "source_type": "thesis",
+    "related_people": ["Tom D. Dillehay", "Mario Pino", "Vicent Giménez Chornet"],
+    "sites_mentioned": ["Monte Verde", "Pilauco"],
+    "proxies_mentioned": ["citizen survey", "cultural-policy review"],
+    "notes": "Valencia doctorate on heritage management, not stone tools. A survey of 418 residents plus a review of post-dictatorship cultural policy finds about 40 years of omission at Monte Verde and about 20 years of neglect at Pilauco; the author cites human presence there at 33,000 to 12,500 years ago as having overturned Clovis-first."
+  }
+]
+```
