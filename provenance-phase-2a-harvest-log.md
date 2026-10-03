@@ -550,3 +550,52 @@ Batch: Waters leftovers, Goebel leftovers, Hoffecker leftovers
   }
 ]
 ```
+
+---
+
+## Entry 10 — Bobo
+
+Timestamp: 2026-10-02T22:02:33-06:00
+
+Batch: Bull Brook (Massachusetts), Plenge (New Jersey), Agate Basin (Wyoming)
+
+```json
+[
+  {
+    "title": "Massachusetts Fluted Points",
+    "authors": ["William S. Fowler"],
+    "year": 1954,
+    "doi": "",
+    "oa_url": "https://www.joycerain.com/uploads/2/3/2/0/23207256/mas-v16n01_1954_on_points_and_pottery_1.pdf",
+    "source_type": "ir",
+    "related_people": ["Douglas S. Byers", "Chester E. Smolski", "R. S. Esty"],
+    "sites_mentioned": ["Bull Brook", "Ipswich, Massachusetts"],
+    "proxies_mentioned": ["fluted points", "coarse-sand stratigraphy", "glacial-marine deposits", "lithic raw material"],
+    "notes": "Bulletin of the Massachusetts Archaeological Society 16(1), October 1954. The PDF is the whole issue. The fluted-points article discusses Bull Brook finds and stratigraphy. PDF verified."
+  },
+  {
+    "title": "The Paleo-Indian Period in New Jersey",
+    "authors": ["Sydne Marshall"],
+    "year": 1982,
+    "doi": "",
+    "oa_url": "https://rucore.libraries.rutgers.edu/rutgers-lib/37580/PDF/1/",
+    "source_type": "ir",
+    "related_people": ["Herbert C. Kraft", "William Gardner", "Leonard Eisenberg", "R. Alan Mounier"],
+    "sites_mentioned": ["Plenge", "Warren County, New Jersey", "Musconetcong River"],
+    "proxies_mentioned": ["fluted points", "point typology", "surface assemblage", "lithic tools", "settlement pattern"],
+    "notes": "Chapter in Olga Chesler (ed.), New Jersey's Archeological Resources from the Paleo-Indian Period to the Present (1982). The Rutgers PDF is the whole volume. Plenge is treated as a Paleoindian occupation. PDF verified."
+  },
+  {
+    "title": "Can't We All Just Get Along? Weaponry Standardization and Sharing at the Agate Basin Site",
+    "authors": ["Michael C. Guarino"],
+    "year": 2014,
+    "doi": "",
+    "oa_url": "https://kuscholarworks.ku.edu/server/api/core/bitstreams/6dca0f50-d576-420f-9f74-dd517ece2058/content",
+    "source_type": "thesis",
+    "related_people": ["Frederic Sellet", "Jack L. Hofman", "Mary J. Adair"],
+    "sites_mentioned": ["Agate Basin"],
+    "proxies_mentioned": ["lithics", "hafted-area morphology", "weapon standardization"],
+    "notes": "University of Kansas M.A. thesis, defended 4 December 2014. Direct study of Agate Basin point hafting. PDF verified. Not in prior harvest files."
+  }
+]
+```
