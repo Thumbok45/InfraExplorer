@@ -476,3 +476,28 @@ Batch: Harney Flats (Florida), Silver River (Florida), Wacissa River sites (Flor
   }
 ]
 ```
+
+---
+
+## Entry 8 — Po
+
+Timestamp: 2026-10-02T21:58:48-06:00
+
+Batch: One open-access university dissertation or institutional-repository PDF on a pre-Clovis or Paleoindian site in North America
+
+```json
+[
+  {
+    "title": "Settling into the Younger Dryas: Human Behavioral Adaptations During the Pleistocene to Holocene Transition in the Midsouth United States",
+    "authors": ["Jesse W. Tune"],
+    "year": 2015,
+    "doi": null,
+    "oa_url": "https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/155542/TUNE-DISSERTATION-2015.pdf?sequence=1&isAllowed=y",
+    "source_type": "thesis",
+    "related_people": ["Michael R. Waters", "John B. Broster", "Aaron Deter-Wolf", "Ted Goebel", "Kelly Graf"],
+    "sites_mentioned": ["Coats-Hines-Litchy"],
+    "proxies_mentioned": ["radiocarbon", "OSL"],
+    "notes": "Texas A&M dissertation, handle 1969.1/155542, no DOI. Geochronology, site formation, and the lithics indicate Coats-Hines-Litchy predates people in North America: the bones are natural and the artifacts were redeposited from nearby sites. Later chapters argue Cumberland points were piercing tools and that Clovis-to-Dalton change tracks landscape learning, not Younger Dryas climate."
+  }
+]
+```
