@@ -147,3 +147,88 @@ Batch: Willerslev leftovers, Malhi leftovers, Raff leftovers, Shapiro leftovers
   }
 ]
 ```
+
+---
+
+## Entry 3 — Kk7Tobe
+
+Timestamp: 2026-10-02T21:44:55-06:00
+
+Batch: Page-Ladson (Florida), Ryan-Harley (Florida), Norden (Florida)
+
+```json
+[
+  {
+    "title": "Page/Ladson (8Je591): Excavation of an Early Holocene Occupation Site in the Aucilla River, Florida",
+    "authors": ["Brinnen S. Carter"],
+    "year": 2003,
+    "doi": null,
+    "oa_url": "https://archive.org/download/pageladson8je59100cart/pageladson8je59100cart.pdf",
+    "source_type": "ia",
+    "related_people": ["S. David Webb", "James S. Dunbar", "Jerald T. Milanich", "David G. Anderson", "Albert C. Goodyear", "Louis Tesar"],
+    "sites_mentioned": ["Page/Ladson (8Je591)", "Little Salt Spring"],
+    "proxies_mentioned": ["radiocarbon dating", "pollen", "faunal analysis", "sediments/stratigraphy", "sea-level change"],
+    "notes": "New OA Internet Archive scan of the University of Florida PhD dissertation. Adjacent Early Holocene/Early Archaic rather than pre-Clovis-focused, but includes Page/Ladson late-Pleistocene context and Paleoindian framing. Halligan et al. 2016 Science Advances and the Smith 2019 / Wilson 2020 theses were treated as already harvested and not returned."
+  },
+  {
+    "title": "Geoarchaeological Consideration of the Ryan-Harley Site (8JE1004) in the Wacissa River, Northern Florida",
+    "authors": ["James H. Balsillie", "Guy H. Means", "James S. Dunbar", "Ryan Means"],
+    "year": 2005,
+    "doi": null,
+    "oa_url": "https://flmnhbulletin.com/index.php/flmnh/article/download/flmnh-vol45-no4-pp541-562/vol45-no4/1215",
+    "source_type": "ir",
+    "related_people": ["James S. Dunbar", "Guy H. Means"],
+    "sites_mentioned": ["Ryan-Harley (8JE1004)", "Wacissa River", "Jefferson County, Florida"],
+    "proxies_mentioned": ["granulometry", "grain-size distributions", "stratigraphy", "artifact taphonomy", "vertebrate faunal remains", "fluvial and eolian deposition", "Suwannee-point seriation"],
+    "notes": "Gold OA, dedicated Ryan-Harley geoarchaeological treatment. Supports an essentially intact Suwannee component with little post-depositional reworking; relative dating is approximately 10,900–10,500 14C BP. No DOI listed by the journal."
+  },
+  {
+    "title": "Microfaunal remains from the Ryan-Harley site",
+    "authors": ["Savanna Caylor"],
+    "year": 2024,
+    "doi": null,
+    "oa_url": "https://scholar.utc.edu/cgi/viewcontent.cgi?article=1492&context=honors-theses",
+    "source_type": "thesis",
+    "related_people": ["Morgan F. Smith", "Brooke Persons", "Timothy J. Gaudin"],
+    "sites_mentioned": ["Ryan-Harley (8JE1004)", "Wacissa River basin, Florida"],
+    "proxies_mentioned": ["microfloral remains", "microfaunal remains", "faunal analysis", "screening analysis", "paleoecological reconstruction", "Younger Dryas environmental change"],
+    "notes": "Gold OA CC BY honors thesis; dedicated Ryan-Harley environmental study. Examines floral and faunal evidence for Younger Dryas environments and Suwannee-period human interactions."
+  },
+  {
+    "title": "The Ryan/Harley site: Sedimentology of an inundated Paleoindian site in north Florida",
+    "authors": ["James H. Balsillie", "Guy H. Means", "James S. Dunbar"],
+    "year": 2006,
+    "doi": "10.1002/gea.20109",
+    "oa_url": null,
+    "source_type": "none_found",
+    "related_people": ["James H. Balsillie", "Guy H. Means", "James S. Dunbar"],
+    "sites_mentioned": ["Ryan-Harley (8JE1004)", "Wacissa River", "north Florida"],
+    "proxies_mentioned": ["sedimentology", "granulometry", "grain-size distributions", "fluvial deposition", "artifact integrity", "vertebrate faunal remains", "Suwannee-point chronology"],
+    "notes": "Canonical dedicated treatment, but no verified OA full PDF found. Wiley's PDF endpoint returned HTTP 200 text/html rather than application/pdf; no verified gray author copy located. Excluded as paywalled/gated."
+  },
+  {
+    "title": "Temporal Problems and Alternatives toward the Establishment of Paleoindian Site Chronologies in Florida and the Adjacent Coastal Southeast",
+    "authors": ["James S. Dunbar"],
+    "year": 2007,
+    "doi": null,
+    "oa_url": "https://ufdcimages.uflib.ufl.edu/UF/00/02/78/29/00200/UF00027829_00200.pdf",
+    "source_type": "ir",
+    "related_people": ["Ripley P. Bullen", "Grayal E. Farr", "David K. Thulman"],
+    "sites_mentioned": ["Norden (8GI40)", "Wakulla Springs Lodge (8WA329)", "Ryan-Harley (8JE1004)", "Harney Flats (8HI507)", "Lewis-McQuinn (8DI112)", "Page-Ladson (8JE591)", "Sloth Hole (8JE121)"],
+    "proxies_mentioned": ["radiocarbon", "OSL", "uranium-thorium dating", "stratigraphy", "projectile-point typology", "faunal association"],
+    "notes": "Directly discusses Norden as an undated Paleoindian site and addresses Suwannee chronology. OA URL is the complete Florida Anthropologist 60(1) issue; article is pp. 5–20."
+  },
+  {
+    "title": "Geoarchaeological Investigations and OSL Dating Evidence in an Archaic and Paleoindian Context at the Helen Blazes Site (8BR27), Brevard County, Florida",
+    "authors": ["William Jack Rink", "James S. Dunbar", "Glen H. Doran", "Charles Frederick", "Brittney Gregory"],
+    "year": 2012,
+    "doi": null,
+    "oa_url": "https://ufdcimages.uflib.ufl.edu/UF/00/02/78/29/00230/UF00027829_00230.pdf",
+    "source_type": "ir",
+    "related_people": ["W. E. Edwards", "Ripley P. Bullen", "David K. Thulman"],
+    "sites_mentioned": ["Helen Blazes (8BR27)", "Norden (8GI40)", "Harney Flats (8HI507)", "Wakulla Springs Lodge (8WA329)", "South Indian Fields (8BR23)", "Lake George Point (8PU1470)", "Dust Cave"],
+    "proxies_mentioned": ["OSL", "stratigraphy", "sedimentology", "soil micromorphology", "granulometry", "loss-on-ignition", "calcium carbonate", "NAA/DNC dose rates"],
+    "notes": "Adjacent/contextual Paleoindian–Holocene paper: Norden is used as a comparative Suwannee-site example, not analyzed directly. OA URL is the complete Florida Anthropologist 65(1–2) issue; article is pp. 87–107."
+  }
+]
+```
