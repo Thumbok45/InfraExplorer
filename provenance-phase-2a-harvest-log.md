@@ -367,3 +367,112 @@ Batch: Shawnee-Minisink (Pennsylvania), Thunderbird (Virginia), Williamson (Virg
   }
 ]
 ```
+
+---
+
+## Entry 7 — Kk7Tobe
+
+Timestamp: 2026-10-02T21:54:55-06:00
+
+Batch: Harney Flats (Florida), Silver River (Florida), Wacissa River sites (Florida)
+
+```json
+[
+  {
+    "title": "Preliminary Report on the Excavations at Harney Flats, Hillsborough County, Florida",
+    "authors": ["Randy Daniel", "Michael Wisenbaker"],
+    "year": 1983,
+    "doi": null,
+    "oa_url": "https://ufdcimages.uflib.ufl.edu/UF/00/02/78/29/00011/UF00027829_00011.pdf",
+    "source_type": "ir",
+    "related_people": ["Randy Daniel", "Michael Wisenbaker"],
+    "sites_mentioned": ["Harney Flats (8HI507)"],
+    "proxies_mentioned": ["lithic artifacts", "stratigraphy", "Suwannee and Bolen points"],
+    "notes": "Florida Anthropologist 36(1–2), pp. 67–80; full issue PDF. Adjacent Holocene: Early Archaic context. No DOI located."
+  },
+  {
+    "title": "Organization of a Suwannee Technology: The View from Harney Flats",
+    "authors": ["I. Randolph Daniel Jr.", "Michael Wisenbaker", "George Ballo"],
+    "year": 1986,
+    "doi": null,
+    "oa_url": "https://ufdcimages.uflib.ufl.edu/UF/00/02/78/29/00020/UF00027829_00020.pdf",
+    "source_type": "ir",
+    "related_people": ["I. Randolph Daniel Jr.", "Michael Wisenbaker", "George Ballo"],
+    "sites_mentioned": ["Harney Flats (8HI507)"],
+    "proxies_mentioned": ["Suwannee lithic technology", "projectile points", "artifact spatial patterning"],
+    "notes": "Florida Anthropologist 39(1–2), pp. 24–56; full issue PDF. Adjacent Holocene: Early Archaic material in the broader site assemblage. No DOI located."
+  },
+  {
+    "title": "A Stratified Early Site at Silver Springs, Florida",
+    "authors": ["Wilfred T. Neill"],
+    "year": 1958,
+    "doi": null,
+    "oa_url": "https://ufdcimages.uflib.ufl.edu/UF/00/02/78/29/00127/UF00027829_00127.pdf",
+    "source_type": "ir",
+    "related_people": ["Ripley P. Bullen", "E. Ross Allen", "W. Carl Ray", "John W. Griffin"],
+    "sites_mentioned": ["Silver Springs site (MR92/8MR92)", "Silver Springs Run/Silver River", "Silver Springs headspring", "Oklawaha River"],
+    "proxies_mentioned": ["buried occupation levels", "eolian-sand stratigraphy", "charcoal", "lithic patination", "local/imported flint"],
+    "notes": "Primary excavation report on 8MR92, with a deepest 88–93-inch level containing Clovis-like/Suwannee-type points and tools below preceramic Archaic deposits. Adjacent Holocene/ceramic components are also discussed; not a Guest Mammoth reanalysis."
+  },
+  {
+    "title": "The Silver Springs Site, Prehistory in the Silver Springs Valley, Florida",
+    "authors": ["E. Thomas Hemmings"],
+    "year": 1975,
+    "doi": null,
+    "oa_url": "https://ufdcimages.uflib.ufl.edu/UF/00/02/78/29/00174/UF00027829_00174.pdf",
+    "source_type": "ir",
+    "related_people": ["Wilfred T. Neill", "Timothy A. Kohler", "Charles A. Hoffman Jr.", "H. Kelly Brooks", "David S. Webb"],
+    "sites_mentioned": ["Silver Springs site (MR92/8MR92)", "Silver Springs Midden (MR53)", "Cavern and Headspring (MR59)", "MR83", "MR93", "Guest Mammoth (MR130; background only)"],
+    "proxies_mentioned": ["eolian-sand stratigraphy", "buried living floors", "debitage density and ratios", "lithic patination", "charcoal", "marl sequences", "Pleistocene fauna", "pollen-bearing sediments"],
+    "notes": "Main subject is the Silver Springs Run valley: 1973 MR92 excavation plus a critical inventory of other basin sites. Guest Mammoth is only a short contextual section. Adjacent Holocene/Archaic components are included."
+  },
+  {
+    "title": "Archaeology of Silver Springs State Park, Marion County, Florida",
+    "authors": ["Rudy J. Westerman"],
+    "year": 2016,
+    "doi": null,
+    "oa_url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=7352&context=etd",
+    "source_type": "thesis",
+    "related_people": ["Wilfred T. Neill", "E. Thomas Hemmings", "Michael K. Faught", "David K. Thulman"],
+    "sites_mentioned": ["Silver Springs State Park", "Silver River watershed", "Silver Springs site/Paradise Park (8MR92)", "Silver Run/No Name (8MR93)", "Guest Mammoth (8MR130; background only)"],
+    "proxies_mentioned": ["surface collection", "shovel-test stratigraphy and depth", "lithic typology", "chert/debitage", "site distribution", "informant interviews", "landscape persistence"],
+    "notes": "USF thesis. 2014–2015 survey of the park and Silver River watershed; relocates earlier sites and adds twelve resources, documenting occupation from at least 13,000 years ago through the twentieth century. Adjacent Holocene material is substantial; not a Guest Mammoth rehash."
+  },
+  {
+    "title": "A Reexamination of the Reexaminations of the Alexon Bison Site (8JE570)",
+    "authors": ["James S. Dunbar", "C. Andrew Hemmings", "Tom Harmon", "Emilee McGann"],
+    "year": 2022,
+    "doi": null,
+    "oa_url": "https://www.aucillaresearchinstitute.org/uploads/3/2/3/5/3235856/alexonbisonsite-tfa_vol75no4-december2022-2%5B90978%5D.pdf",
+    "source_type": "ir",
+    "related_people": ["Roger Alexon", "S. David Webb", "Jerald T. Milanich", "Michael R. Waters", "Zachary A. Newell", "Morgan F. Smith"],
+    "sites_mentioned": ["Alexon Bison Site (8JE570)", "Ryan-Harley (8JE1004)", "2½ Fathom Quarry (8JE612)", "Page-Ladson (8JE591)", "Sloth Hole (8JE121)", "Norden (8GI40)", "Wakulla Springs (8WA24a)"],
+    "proxies_mentioned": ["Bison antiquus", "embedded chert", "radiocarbon", "OSL", "GPR", "Suwannee chert", "Allerød", "Wacissa River channel-fill deposits"],
+    "notes": "Institute-hosted PDF of The Florida Anthropologist 75(4), 2022, pp. 224–250. Not confirmed as the journal's own platform. Main subject is the Wacissa Alexon site. Not a previously harvested Ryan-Harley, Page-Ladson, or Sloth Hole paper."
+  },
+  {
+    "title": "Inventory of Inundated Paleoindian Sites in the Lower Aucilla–Wacissa River Drainage, Jefferson County, North Florida",
+    "authors": ["C. Andrew Hemmings"],
+    "year": 2000,
+    "doi": null,
+    "oa_url": "https://liberalarts.tamu.edu/csfa/wp-content/uploads/sites/14/2023/07/CRP-17-2000.pdf",
+    "source_type": "ir",
+    "related_people": ["James S. Dunbar", "S. David Webb", "Roger Alexon"],
+    "sites_mentioned": ["Ryan-Harley (8JE1004)", "Alexon Bison Site (8JE570)", "Sloth Hole (8JE121)", "Lower Aucilla–Wacissa drainage"],
+    "proxies_mentioned": ["inundated sites", "Suwannee points", "mastodon remains", "submerged Paleoindian contexts", "river drainage"],
+    "notes": "Full volume PDF of Current Research in the Pleistocene 17, hosted by the issuing center (CSFA, Texas A&M). This article is pp. 39–41. Same file as the Mihlbachler et al. 2000 note below."
+  },
+  {
+    "title": "Reevaluation of the Alexon Bison Kill Site, Wacissa River, Jefferson County, Florida",
+    "authors": ["Matthew C. Mihlbachler", "C. Andrew Hemmings", "S. David Webb"],
+    "year": 2000,
+    "doi": null,
+    "oa_url": "https://liberalarts.tamu.edu/csfa/wp-content/uploads/sites/14/2023/07/CRP-17-2000.pdf",
+    "source_type": "ir",
+    "related_people": ["Roger Alexon", "James S. Dunbar", "Jerald T. Milanich"],
+    "sites_mentioned": ["Alexon Bison Site (8JE570)", "Wacissa River"],
+    "proxies_mentioned": ["Bison antiquus", "embedded chert fragment", "CT scan", "radiocarbon dating", "Paleoindian kill interpretation"],
+    "notes": "Same CSFA volume PDF as above. This article is pp. 55–57 of Current Research in the Pleistocene 17. Distinct from the 1984 report and any later PaleoAmerica paper."
+  }
+]
+```
