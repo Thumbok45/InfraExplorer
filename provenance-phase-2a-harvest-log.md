@@ -501,3 +501,52 @@ Batch: One open-access university dissertation or institutional-repository PDF o
   }
 ]
 ```
+
+---
+
+## Entry 9 — Woo
+
+Timestamp: 2026-10-02T21:58:58-06:00
+
+Batch: Waters leftovers, Goebel leftovers, Hoffecker leftovers
+
+```json
+[
+  {
+    "title": "Late Pleistocene osseous projectile point from the Manis site, Washington-Mastodon hunting in the Pacific Northwest 13,900 years ago.",
+    "authors": "Michael R Waters, Zachary A Newell, Daniel C Fisher, H Gregory McDonald, Jiwan Han, Michael Moreno, Andrew Robbins",
+    "year": 2023,
+    "doi": "10.1126/sciadv.ade9068",
+    "oa_url": "https://europepmc.org/articles/PMC9891687?pdf=render",
+    "source_type": "pmc",
+    "related_people": ["Michael R. Waters"],
+    "sites_mentioned": ["Manis site, Washington"],
+    "proxies_mentioned": "osseous projectile point, mastodon rib, digital excavation",
+    "notes": "PMC9891687. HTTP 200 %PDF. Bone fragments in a mastodon rib refit to a shaped point. Not the closed 2011 Science report, and not Hall's Cave 2020."
+  },
+  {
+    "title": null,
+    "authors": "",
+    "year": null,
+    "doi": "",
+    "oa_url": "",
+    "source_type": "none_found",
+    "related_people": ["Ted Goebel"],
+    "sites_mentioned": "",
+    "proxies_mentioned": "",
+    "notes": "No new open-access full text. Fluted points, wapiti, and the Baikal paper are already harvested. Ushki 2003 and 2010 are paywalled. Department copies of those publisher PDFs were not used."
+  },
+  {
+    "title": null,
+    "authors": "",
+    "year": null,
+    "doi": "",
+    "oa_url": "",
+    "source_type": "none_found",
+    "related_people": ["John F. Hoffecker"],
+    "sites_mentioned": "",
+    "proxies_mentioned": "",
+    "notes": "No new open-access full text. The 2023 Beringia review and the 2018 PNAS vitamin D paper are already harvested. The 2016 Evolutionary Anthropology paper, 2014 Science essay, and 2020 PaleoAmerica article are closed. A 2021 workshop abstract is not a paper."
+  }
+]
+```
