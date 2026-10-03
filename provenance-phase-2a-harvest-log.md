@@ -599,3 +599,28 @@ Batch: Bull Brook (Massachusetts), Plenge (New Jersey), Agate Basin (Wyoming)
   }
 ]
 ```
+
+---
+
+## Entry 11 — Po
+
+Timestamp: 2026-10-02T22:03:59-06:00
+
+Batch: One open-access university dissertation or institutional-repository PDF on a pre-Clovis or Paleoindian site in North America
+
+```json
+[
+  {
+    "title": "A spatio-temporal model of hunter-gatherer foraging ecology across the North American Great Plains throughout the Paleoindian period: Development of biological theory and statistical methods to link human evolutionary biology, ecology, and the archaeological record",
+    "authors": ["Erik Roque Otárola-Castillo"],
+    "year": 2016,
+    "doi": null,
+    "oa_url": "https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=2946&context=stony-brook-theses-and-dissertations-collection",
+    "source_type": "thesis",
+    "related_people": ["John J. Shea", "Jason M. LaBelle", "Matthew G. Hill"],
+    "sites_mentioned": ["Clary Ranch", "Olsen-Chubbuck", "Hudson-Meng", "Jurgens", "Lime Creek", "Lindenmeier", "Milnesand", "San Jon", "Lipscomb", "Plainview", "Finley"],
+    "proxies_mentioned": ["pollen", "radiocarbon", "grass biomass", "bison MNI", "experimental butchery"],
+    "notes": "Stony Brook dissertation, Academic Commons 1947, no DOI. Temperature seasonality had the strongest effect on Plains Paleoindian diet breadth. Kills were larger and carcasses more fully used when bison encounters were rare, and smaller and limited to high-yield parts when encounters were common."
+  }
+]
+```
