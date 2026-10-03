@@ -624,3 +624,173 @@ Batch: One open-access university dissertation or institutional-repository PDF o
   }
 ]
 ```
+
+---
+
+## Entry 12 — Bobo
+
+Timestamp: 2026-10-02T22:13:45-06:00
+
+Batch: Debert (Nova Scotia), Vail (Maine), Shoop (Pennsylvania)
+
+```json
+[
+  {
+    "title": "The Debert Archaeological Project",
+    "authors": ["Douglas S. Byers"],
+    "year": 1965,
+    "doi": "10.4138/1339",
+    "oa_url": "https://journals.lib.unb.ca/index.php/ag/article/download/1339/1714/2948",
+    "source_type": "ir",
+    "related_people": ["George F. MacDonald"],
+    "sites_mentioned": ["Debert"],
+    "proxies_mentioned": ["radiocarbon dating of hearth charcoal", "fluted-point and lithic assemblage", "soil stratigraphy", "raw-material sourcing"],
+    "notes": "Maritime Sediments / Atlantic Geology. Two-page excavation report. PDF verified."
+  },
+  {
+    "title": "A Periglacial Eolian Sand at Debert, Northern Nova Scotia: a Preliminary Report",
+    "authors": ["Donald J.P. Swift", "Douglas S. Byers", "David Krinsley"],
+    "year": 1966,
+    "doi": "10.4138/1474",
+    "oa_url": "https://journals.lib.unb.ca/index.php/ag/article/download/1474/1842",
+    "source_type": "ir",
+    "related_people": ["George F. MacDonald", "Robert Stuckenrath"],
+    "sites_mentioned": ["Debert"],
+    "proxies_mentioned": ["radiocarbon dating of charcoal", "eolian-sand sedimentology", "paleocurrent indicators", "grain-surface microscopy", "podzol stratigraphy"],
+    "notes": "The PDF is a six-page journal issue that contains this report. PDF verified."
+  },
+  {
+    "title": "",
+    "authors": [],
+    "year": null,
+    "doi": "",
+    "oa_url": "",
+    "source_type": "none_found",
+    "related_people": [],
+    "sites_mentioned": ["Vail"],
+    "proxies_mentioned": [],
+    "notes": "No new OA PDF verified."
+  },
+  {
+    "title": "An Update on Recent Test Excavations at the Shoop Paleoindian Site (36DA0020): Preliminary Thoughts Concerning Chronology and Community Patterning",
+    "authors": ["Kurt W. Carr", "Joseph P. Vitolo", "Robert Ronngren", "Sharon McDonald", "Kim Sebestyen", "Brian Harrison"],
+    "year": 2024,
+    "doi": "",
+    "oa_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/phmc/documents/preservation/about/documents/PASSREPORT_2024_Final.pdf",
+    "source_type": "ir",
+    "related_people": ["John Witthoft", "Steven L. Cox", "Frank J. Vento"],
+    "sites_mentioned": ["Shoop", "36DA0020"],
+    "proxies_mentioned": ["fluted bifaces", "Onondaga chert", "X-ray fluorescence", "thin-section petrography", "artifact distributions", "stratigraphy"],
+    "notes": "Section of the 2024 Pennsylvania Archaeological Site Survey report. PDF verified. Not in prior harvest files."
+  }
+]
+```
+
+---
+
+## Entry 13 — Kk7Tobe
+
+Timestamp: 2026-10-02T22:19:29-06:00
+
+Batch: Wakulla Springs Lodge (Florida), Sloth Hole (Florida), Little Salt Spring (Florida), Warm Mineral Springs (Florida)
+
+```json
+[
+  {
+    "title": "The Wakulla Springs Lodge Site (8WA329): A Preliminary Report on a Stratified Paleoindian through Archaic Site, Wakulla County, Florida",
+    "authors": ["B. Calvin Jones", "Louis D. Tesar"],
+    "year": 2000,
+    "doi": null,
+    "oa_url": "https://ufdcimages.uflib.ufl.edu/UF/00/02/78/29/00190/UF00027829_00190.pdf",
+    "source_type": "ir",
+    "related_people": ["B. Calvin Jones", "Louis D. Tesar"],
+    "sites_mentioned": ["Wakulla Springs Lodge site (8WA329)"],
+    "proxies_mentioned": ["stratigraphy", "artifact/point typology", "faunal and megafaunal context"],
+    "notes": "Florida Anthropologist 53(2–3), pp. 98–114; issue-level UFDC PDF. Not the already harvested Dunbar 2007 or Rink 2012 issue PDFs. Includes later Archaic levels as well as Paleoindian."
+  },
+  {
+    "title": "Aucilla Research Times, Vol. 1, No. 1: The Wakulla Project",
+    "authors": ["Aucilla Research Institute"],
+    "year": 2017,
+    "doi": null,
+    "oa_url": "https://www.aucillaresearchinstitute.org/uploads/3/2/3/5/3235856/aucilla-research-times-vol-1-no-1-the-wakulla-project-2017-1__1_.pdf",
+    "source_type": "ir",
+    "related_people": ["James S. Dunbar", "Madeleine Carr", "Lance Kelly", "Joe Latvis", "Phil Gerrell", "Matt Newton", "Cole Smith"],
+    "sites_mentioned": ["Wakulla Springs Lodge site (8WA329)", "Page-Ladson site (8JE591)", "Sloth Hole site (8JE121)"],
+    "proxies_mentioned": ["projectile-point typology", "stratigraphy", "radiometric dating", "paleoclimate and karst hydrology"],
+    "notes": "Institution-hosted research newsletter summarizing the Wakulla Project and 2008 Lodge-site investigations. Not a journal article."
+  },
+  {
+    "title": "An Incised Antler Artifact from Little Salt Spring (8SO18)",
+    "authors": ["John A. Gifford", "Steven H. Koski"],
+    "year": 2011,
+    "doi": null,
+    "oa_url": "https://ufdcimages.uflib.ufl.edu/UF/00/02/78/29/00212/UF00027829_00212.pdf",
+    "source_type": "ir",
+    "related_people": ["John A. Gifford", "Steven H. Koski"],
+    "sites_mentioned": ["Little Salt Spring (8SO18), Sarasota County, Florida"],
+    "proxies_mentioned": ["incised antler artifact", "artifact analysis", "underwater archaeological context"],
+    "notes": "Florida Anthropologist issue PDF on UFDC; article pp. 47–51. New relative to Clausen et al. 1979 Science (closed) and Carter 2003. Single-artifact note, not a site chronology."
+  },
+  {
+    "title": "An Exploratory Non-Destructive Provenance Analysis of Two Middle Archaic Greenstone Pendants from Little Salt Spring, Florida, USA",
+    "authors": ["Michael F. Bonomo", "Justin P. Lowry", "Robert H. Tykot", "John A. Gifford"],
+    "year": 2014,
+    "doi": "10.1002/gea.21470",
+    "oa_url": "http://shell.cas.usf.edu/%7Ertykot/PR%20113%20Bonomo%20et%20al.%202014.pdf",
+    "source_type": "preprint",
+    "related_people": ["Michael F. Bonomo", "Justin P. Lowry", "Robert H. Tykot", "John A. Gifford"],
+    "sites_mentioned": ["Little Salt Spring (8SO18), Florida", "Southern Appalachian Piedmont"],
+    "proxies_mentioned": ["petrography", "SEM", "XRF", "whole-rock XRD", "lithic provenance"],
+    "notes": "Gray author-hosted PDF of gated Geoarchaeology (Wiley). Not gold OA. Adjacent: Middle Archaic pendants, not a first-peopling paper."
+  },
+  {
+    "title": "Florida's Deep Past: The Bioarchaeology of Little Salt Spring (8SO18) and Its Place Among Mortuary Ponds of the Archaic",
+    "authors": ["Rachel K. Wentz", "John A. Gifford"],
+    "year": 2007,
+    "doi": null,
+    "oa_url": "https://rachelwentzbooks.com/wp-content/uploads/2013/03/Floridas-Deep-Past-The-Bioarchaeology-of-Little-Salt-Spring.pdf",
+    "source_type": "preprint",
+    "related_people": ["Rachel K. Wentz", "John A. Gifford", "Carl J. Clausen"],
+    "sites_mentioned": ["Little Salt Spring (8SO18)", "Windover (8BR246)", "Bay West", "Republic Groves"],
+    "proxies_mentioned": ["human femur measurements", "stature", "skeletal preservation", "mortuary-pond comparison"],
+    "notes": "Author-hosted article PDF, not a journal OA platform. Adjacent Holocene: Archaic mortuary pond, not the Paleoindian occupation."
+  },
+  {
+    "title": "Preserving Florida History in 3D: A Digital Public History Project Preserving Paleo-Native American Artifacts and Jack West Architecture from Warm Mineral Springs, Florida",
+    "authors": ["Trevor D. Colaneri"],
+    "year": 2025,
+    "doi": null,
+    "oa_url": "https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1375&context=etd2024",
+    "source_type": "thesis",
+    "related_people": ["Tiffany Earley-Spadoni", "Wilburn A. Cockrell", "William Royal"],
+    "sites_mentioned": ["Warm Mineral Springs", "North Port, Florida"],
+    "proxies_mentioned": ["photogrammetry", "3D artifact models", "360-degree walkthroughs"],
+    "notes": "UCF MA thesis. Adjacent: digital documentation of artifacts and architecture, not a primary excavation or dating paper."
+  },
+  {
+    "title": "THE MULTIPLICITY OF HERITAGE AT WARM MINERAL SPRINGS",
+    "authors": ["Jodi L. Johnson"],
+    "year": 2014,
+    "doi": null,
+    "oa_url": "https://digitalcommons.ncf.edu/cgi/viewcontent.cgi?article=5891&context=theses_etds",
+    "source_type": "thesis",
+    "related_people": ["Uzi Baram", "William Royal", "Wilburn A. Cockrell"],
+    "sites_mentioned": ["Warm Mineral Springs", "North Port, Florida"],
+    "proxies_mentioned": [],
+    "notes": "New College of Florida undergraduate thesis. Adjacent: heritage, preservation, ecology, and hydrology, not a first-peopling site report."
+  },
+  {
+    "title": "Discharge, water temperature, and water quality of Warm Mineral Springs, Sarasota County, Florida: A retrospective analysis",
+    "authors": ["Patricia A. Metz"],
+    "year": 2016,
+    "doi": "10.3133/ofr20161166",
+    "oa_url": "https://pubs.usgs.gov/of/2016/1166/ofr20161166.pdf",
+    "source_type": "ir",
+    "related_people": ["Patricia A. Metz", "Wilburn A. Cockrell", "Larry Murphy", "Carl J. Clausen"],
+    "sites_mentioned": ["Warm Mineral Springs", "Warm Mineral Springs Creek", "Salt Creek", "Myakka River"],
+    "proxies_mentioned": ["discharge", "water temperature", "specific conductance", "nitrate", "turbidity", "strontium isotopes"],
+    "notes": "USGS Open-File Report. Adjacent: hydrology, with only background mention of late Pleistocene / early Holocene archaeology."
+  }
+]
+```
