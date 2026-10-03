@@ -318,3 +318,52 @@ Batch: One open-access university dissertation or institutional-repository PDF o
   }
 ]
 ```
+
+---
+
+## Entry 6 — Bobo
+
+Timestamp: 2026-10-02T21:49:53-06:00
+
+Batch: Shawnee-Minisink (Pennsylvania), Thunderbird (Virginia), Williamson (Virginia)
+
+```json
+[
+  {
+    "title": "Shawnee-Minisink Revisited: New Excavations of the Paleoindian Level",
+    "authors": ["Joseph A. M. Gingerich"],
+    "year": 2004,
+    "doi": "",
+    "oa_url": "https://liberalarts.tamu.edu/csfa/wp-content/uploads/sites/14/2023/07/CRP-21-2004.pdf",
+    "source_type": "ir",
+    "related_people": ["Donald Kline", "Charles W. McNett Jr.", "Daniel P. Wagner"],
+    "sites_mentioned": ["Shawnee-Minisink", "36MR43", "Upper Delaware Valley"],
+    "proxies_mentioned": ["radiocarbon dates", "charred hawthorn plum seeds", "stratigraphy", "lithic artifact distributions"],
+    "notes": "Current Research in the Pleistocene 21. The report starts on page 40 of the volume PDF. PDF verified."
+  },
+  {
+    "title": "An Archaeological Investigation of Clovis Blade Technology at Thunderbird (44WR11), a Paleolithic Stratified Site of the Flint Run Complex, Warren County, VA",
+    "authors": ["Kurt N. Fredrickson"],
+    "year": 2024,
+    "doi": "",
+    "oa_url": "https://drum.lib.umd.edu/bitstreams/a2423ba6-2bc7-4da6-ae2d-5235559ed68e/download",
+    "source_type": "thesis",
+    "related_people": ["William M. Gardner", "Joan M. Walker", "Matthew Palus"],
+    "sites_mentioned": ["Thunderbird", "44WR11", "Flint Run Complex"],
+    "proxies_mentioned": ["lithic blades", "bifacial technology", "artifact measurements", "raw-material use"],
+    "notes": "University of Maryland M.P.S. thesis. The download URL redirects to the PDF. PDF verified."
+  },
+  {
+    "title": "National Register of Historic Places Inventory Nomination Form: Williamson Site",
+    "authors": ["Howard MacCord"],
+    "year": 1969,
+    "doi": "",
+    "oa_url": "https://www.dhr.virginia.gov/VLR_to_transfer/PDFNoms/026-0035_Nomination_REDACTED.pdf",
+    "source_type": "ir",
+    "related_people": ["Howard MacCord", "Ben C. McCary"],
+    "sites_mentioned": ["Williamson"],
+    "proxies_mentioned": ["fluted points", "lithics", "quarry-workshop"],
+    "notes": "Prepared 1 May 1969, entered 2 October 1969. Paleoindian quarry-workshop in Dinwiddie County. PDF verified. Not in prior harvest files."
+  }
+]
+```
